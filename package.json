@@ -1,0 +1,30 @@
+{
+  "name": "karma-notify-send-reporter",
+  "version": "0.0.2",
+  "description": "A Karma plugin. Report results with notify-send.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LuckyThirteen/karma-notify-send-reporter.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-reporter",
+    "notify-send"
+  ],
+  "author": "zs",
+  "dependencies": {},
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "GPLv3",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-npm": "~0.0.2",
+    "grunt-bump": "~0.0.7",
+    "grunt-auto-release": "~0.0.2"
+  }
+}
