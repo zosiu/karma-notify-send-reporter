@@ -1,7 +1,7 @@
 {
   "name": "karma-notify-send-reporter",
   "version": "0.0.2",
-  "description": "A Karma plugin. Report results with notify-send.",
+  "description": "A Karma plugin. Reports results with notify-send.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
