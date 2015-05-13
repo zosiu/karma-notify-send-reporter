@@ -1,6 +1,6 @@
 {
   "name": "karma-notify-send-reporter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Karma plugin. Reports results with notify-send.",
   "main": "index.js",
   "scripts": {
