@@ -14,6 +14,10 @@ npm install karma-notify-send-reporter
 ```js
 // karma.conf.js
 module.exports = function(config) {
+  plugins: [
+    require('karma-notify-send-reporter')
+  ],
+
   config.set({
     reporters: ['progress', 'notify-send'],
   });
